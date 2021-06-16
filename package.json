@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-same-kind-casts",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Return a list of ndarray data types to which a provided ndarray data type can be safely cast or cast within the same kind.",
   "license": "Apache-2.0",
   "author": {
