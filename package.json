@@ -1,0 +1,34 @@
+{
+  "name": "@stdlib/ndarray-same-kind-casts",
+  "version": "0.0.0",
+  "description": "Return a list of ndarray data types to which a provided ndarray data type can be safely cast or cast within the same kind.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/ndarray-same-kind-casts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdtypes",
+    "types",
+    "ndarray",
+    "casting",
+    "cast",
+    "rules",
+    "promotion",
+    "utilities",
+    "utility",
+    "utils",
+    "util"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
