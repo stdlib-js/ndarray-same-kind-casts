@@ -42,7 +42,8 @@
     "@stdlib/ndarray-base-dtype-resolve-str": "^0.1.0",
     "@stdlib/ndarray-dtypes": "^0.1.0",
     "@stdlib/utils-keys": "^0.1.0",
-    "@stdlib/utils-library-manifest": "^0.1.0"
+    "@stdlib/utils-library-manifest": "^0.1.0",
+    "@stdlib/error-tools-fmtprodmsg": "^0.1.0"
   },
   "devDependencies": {
     "@stdlib/assert-is-string-array": "^0.1.0",
