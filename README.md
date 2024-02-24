@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import sameKindCasts from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-same-kind-casts@esm/index.mjs';
+import sameKindCasts from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-same-kind-casts@v0.2.1-esm/index.mjs';
 ```
 
 #### sameKindCasts( \[dtype] )
@@ -111,7 +111,7 @@ var out = sameKindCasts( 'foo' );
 <script type="module">
 
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtypes@esm/index.mjs';
-import sameKindCasts from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-same-kind-casts@esm/index.mjs';
+import sameKindCasts from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-same-kind-casts@v0.2.1-esm/index.mjs';
 
 var DTYPES;
 var list;
