@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-same-kind-casts",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Return a list of ndarray data types to which a provided ndarray data type can be safely cast or cast within the same kind.",
   "license": "Apache-2.0",
   "author": {
@@ -38,18 +38,18 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-has-own-property": "^0.2.1",
+    "@stdlib/assert-has-own-property": "^0.2.2",
     "@stdlib/ndarray-base-dtype-resolve-str": "^0.2.1",
     "@stdlib/ndarray-dtypes": "^0.2.1",
-    "@stdlib/utils-keys": "^0.2.1",
-    "@stdlib/utils-library-manifest": "^0.2.1"
+    "@stdlib/utils-keys": "^0.2.2",
+    "@stdlib/utils-library-manifest": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/assert-is-string-array": "^0.2.1",
+    "@stdlib/assert-is-string-array": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.1"
+    "@stdlib/bench-harness": "^0.2.2"
   },
   "engines": {
     "node": ">=0.10.0",
