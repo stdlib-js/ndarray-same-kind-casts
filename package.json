@@ -39,8 +39,8 @@
   },
   "dependencies": {
     "@stdlib/assert-has-own-property": "^0.2.2",
-    "@stdlib/ndarray-base-dtype-resolve-str": "^0.2.1",
-    "@stdlib/ndarray-dtypes": "^0.2.1",
+    "@stdlib/ndarray-base-dtype-resolve-str": "^0.2.2",
+    "@stdlib/ndarray-dtypes": "^0.3.0",
     "@stdlib/utils-keys": "^0.2.2",
     "@stdlib/utils-library-manifest": "^0.2.2"
   },
