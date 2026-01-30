@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import sameKindCasts from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-same-kind-casts@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-same-kind-casts/tags). For example,
+
+```javascript
 import sameKindCasts from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-same-kind-casts@v0.4.0-esm/index.mjs';
 ```
 
@@ -111,7 +116,7 @@ var out = sameKindCasts( 'foo' );
 <script type="module">
 
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtypes@esm/index.mjs';
-import sameKindCasts from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-same-kind-casts@v0.4.0-esm/index.mjs';
+import sameKindCasts from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-same-kind-casts@esm/index.mjs';
 
 var DTYPES;
 var list;
